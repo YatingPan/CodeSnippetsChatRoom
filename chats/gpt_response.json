@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-8PqYn8BYsEDDDEa4nfYk01AJ6P58X",
+  "object": "chat.completion",
+  "created": 1701170933,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Comment 1: This comment does not align with democratic discussion principles. It spreads a baseless and discriminatory claim about a specific group of people (the Chinese) without providing any evidence or engaging in a fair and reasoned debate.\n\nComment 2: This comment does not align with democratic discussion principles. It presents an unsupported claim about the first cloned humans without providing any evidence or engaging in a fair and reasoned debate.\n\nComment 3: This comment does not align with democratic discussion principles. It makes an extraordinary claim about public officials using human clones without offering any evidence or engaging in reasoned discourse.\n\nComment 4: This comment does not align with democratic discussion principles. It spreads a conspiracy theory without providing any evidence, promoting fear, and undermining trust in scientific institutions."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 116,
+    "completion_tokens": 151,
+    "total_tokens": 267
+  }
+}
