@@ -31,7 +31,7 @@ node .\evaluateComments.js
 
 Check the Output: Observe the output in the terminal. The GPT-3.5-turbo model's response will be logged to the console and saved as a JSON file (gpt_response.json) in the same directory as the input data (real_1.json).
 
-[Output Screenshot](/CodeSnippetsChatRoom/images/output_screenshot.png)
+[/CodeSnippetsChatRoom/images/output_screenshot.png](https://github.com/YatingPan/CodeSnippetsChatRoom/blob/main/images/output_screenshot.png)
 
 ## Customization
 You can replace the real_1.json file with other JSON files containing chat data to test different scenarios.
